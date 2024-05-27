@@ -35,3 +35,12 @@ Autor{                    <br/>
 }
 
 *Para todos los siguientes casos, las consultas se realizan a través de *derived queries* utilizando unicamente los registros existentes.
+
+Las Tecnologías utilizadas fueron:
++ Java
++ Spring Boot
++ Hibernate
++ Spring Data JPA
++ Gutendex API
++ Maven
++ PostgreSQL
